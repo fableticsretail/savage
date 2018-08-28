@@ -1,7 +1,7 @@
 /* Custom Styles */
 
 a {
-  color: #FF906D;
+  color: #DBAAA6;
   text-decoration: none;
 }
 
@@ -10,14 +10,14 @@ a:hover {
 }
 
 .alert-primary {
-  background-color: #2D9AAC;
-  border-color: #2D9AAC;
+  background-color: #DBAAA6;
+  border-color: #DBAAA6;
   color: #fff;
   font-weight: 400;
 }
 
 body {
-  background-image: url("../images/brushed-alum.png");
+  background-image: url("../images/dust_scratches.png");
   background-color: #f8f9fa!important;
   background-position: center;
   font-family: 'Assistant', 'Helvetica Neue', HelveticaNeue, Helvetica, Arial, sans-serif;
@@ -28,7 +28,7 @@ body {
 }
 
 .breadcrumb-item.active {
-  color: #FF906D;
+  color: #DBAAA6;
 }
 
 .bg-light {
@@ -58,16 +58,16 @@ body {
 }
 
 .btn-primary {
-  background-color: #FF906D;
+  background-color: #DBAAA6;
 }
 
 .btn-secondary {
-  background-color: #2D9AAC;
+  background-color: #DBAAA6;
 }
 
 /* changes collapsable title color */
 .btn-link {
-  color: #FF906D;
+  color: #DBAAA6;
   font-weight: bold;
 }
 
@@ -85,8 +85,8 @@ body {
 
 .col {
   background-color: #fff;
-  border: 2px solid #FF906D;
-  box-shadow: inset 0 0 0 2px #fff, inset 0 0 0 3px #FF906D;
+  border: 2px solid #DBAAA6;
+  box-shadow: inset 0 0 0 2px #fff, inset 0 0 0 3px #DBAAA6;
   padding: 20px;
   margin: 5px;
 }
@@ -101,8 +101,8 @@ body {
 }
 
 .list-group-item.active {
-    background-color: #FF906D;
-    border-color: #FF906D;
+    background-color: #DBAAA6;
+    border-color: #DBAAA6;
 }
 
 .list-group-item:hover {
@@ -113,7 +113,7 @@ body {
 }
 
 .nav-link {
-  color: #FF906D;
+  color: #DBAAA6;
   font-size: 16px;
 }
 
@@ -122,7 +122,7 @@ body {
 }
 
 .progress-bar {
-  background-color: #2D9AAC;
+  background-color: #DBAAA6;
 }
 
 h1,
